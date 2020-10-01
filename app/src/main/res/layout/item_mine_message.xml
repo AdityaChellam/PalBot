@@ -12,7 +12,7 @@
         app:cmv_arrowGravity="start"
         app:cmv_arrowMargin="3dp"
         app:cmv_arrowPosition="right"
-        app:cmv_backgroundColor="#88BABABA"
+        app:cmv_backgroundColor="#88BBBABA"
         app:cmv_backgroundColorPressed="#FFBABABA"
         app:cmv_contentPadding="10dp"
         app:cmv_cornerRadius="7dp"
@@ -22,7 +22,7 @@
             android:id="@+id/text"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Hello"
+            android:text="Welcome"
             android:textAppearance="@style/TextAppearance.AppCompat.Body1" />
     </me.himanshusoni.chatmessageview.ChatMessageView>
 
